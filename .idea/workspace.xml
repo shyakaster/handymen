@@ -2,365 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a7479ab-f82a-48a4-a336-3b41ddd9e45c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/handymen.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\css\styles-2.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\css\styles-3.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\css\styles-4.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\css\styles-5.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\css\styles-6.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\css\styles.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\about.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\badges\badge-1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\badges\badge-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\badges\badge-3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\badges\badge-4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\badges\badge-5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\customers\customer-1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\customers\customer-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\customers\customer-3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\customers\customer-4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\customers\customer-5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\customers\customer-6.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\hero\hero-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\hero\hero-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\hero\hero-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\hero\hero-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\hero\hero-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\logo-2.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\logo-3.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\logo-4.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\logo-5.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\logo-6.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\logo.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-1-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-10-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-11-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-12-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-13-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-14-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-15-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-16-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-17-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-18-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-2-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-3-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-4-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-5-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-6-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-7-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-8-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-9-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\gallery\gallery-9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\latest\latest-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\latest\latest-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\projects\latest\latest-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\shop\product-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\shop\product-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\images\shop\product-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\js\ajax-form.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\js\animations.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\js\demo\style-switcher.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\js\main.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Bootstrap-Image-Gallery\.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Bootstrap-Image-Gallery\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Bootstrap-Image-Gallery\css\bootstrap-image-gallery.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Bootstrap-Image-Gallery\css\bootstrap-image-gallery.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Bootstrap-Image-Gallery\css\bootstrap-image-gallery.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Bootstrap-Image-Gallery\css\demo.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Bootstrap-Image-Gallery\img\loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Bootstrap-Image-Gallery\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Bootstrap-Image-Gallery\js\bootstrap-image-gallery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Bootstrap-Image-Gallery\js\bootstrap-image-gallery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Bootstrap-Image-Gallery\js\bootstrap-image-gallery.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Bootstrap-Image-Gallery\js\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Bootstrap-Image-Gallery\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\css\blueimp-gallery-indicator.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\css\blueimp-gallery-video.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\css\blueimp-gallery.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\css\blueimp-gallery.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\css\blueimp-gallery.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\css\blueimp-gallery.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\css\demo.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\img\error.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\img\error.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\img\loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\img\play-pause.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\img\play-pause.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\img\video-play.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\img\video-play.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\js\blueimp-gallery-fullscreen.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\js\blueimp-gallery-indicator.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\js\blueimp-gallery-video.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\js\blueimp-gallery-vimeo.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\js\blueimp-gallery-youtube.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\js\blueimp-gallery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\js\blueimp-gallery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\js\blueimp-gallery.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\js\blueimp-helper.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\js\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\js\jquery.blueimp-gallery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\js\jquery.blueimp-gallery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\js\jquery.blueimp-gallery.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\js\vendor\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\Gallery\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\animate-config.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\animate.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\animate.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\_base.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\attention_seekers\bounce.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\attention_seekers\flash.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\attention_seekers\headShake.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\attention_seekers\jello.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\attention_seekers\pulse.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\attention_seekers\rubberBand.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\attention_seekers\shake.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\attention_seekers\swing.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\attention_seekers\tada.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\attention_seekers\wobble.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\bouncing_entrances\bounceIn.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\bouncing_entrances\bounceInDown.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\bouncing_entrances\bounceInLeft.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\bouncing_entrances\bounceInRight.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\bouncing_entrances\bounceInUp.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\bouncing_exits\bounceOut.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\bouncing_exits\bounceOutDown.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\bouncing_exits\bounceOutLeft.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\bouncing_exits\bounceOutRight.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\bouncing_exits\bounceOutUp.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\fading_entrances\fadeIn.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\fading_entrances\fadeInDown.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\fading_entrances\fadeInDownBig.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\fading_entrances\fadeInLeft.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\fading_entrances\fadeInLeftBig.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\fading_entrances\fadeInRight.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\fading_entrances\fadeInRightBig.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\fading_entrances\fadeInUp.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\fading_entrances\fadeInUpBig.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\fading_exits\fadeOut.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\fading_exits\fadeOutDown.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\fading_exits\fadeOutDownBig.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\fading_exits\fadeOutLeft.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\fading_exits\fadeOutLeftBig.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\fading_exits\fadeOutRight.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\fading_exits\fadeOutRightBig.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\fading_exits\fadeOutUp.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\fading_exits\fadeOutUpBig.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\flippers\flip.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\flippers\flipInX.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\flippers\flipInY.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\flippers\flipOutX.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\flippers\flipOutY.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\lightspeed\lightSpeedIn.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\lightspeed\lightSpeedOut.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\rotating_entrances\rotateIn.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\rotating_entrances\rotateInDownLeft.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\rotating_entrances\rotateInDownRight.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\rotating_entrances\rotateInUpLeft.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\rotating_entrances\rotateInUpRight.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\rotating_exits\rotateOut.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\rotating_exits\rotateOutDownLeft.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\rotating_exits\rotateOutDownRight.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\rotating_exits\rotateOutUpLeft.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\rotating_exits\rotateOutUpRight.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\sliding_entrances\slideInDown.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\sliding_entrances\slideInLeft.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\sliding_entrances\slideInRight.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\sliding_entrances\slideInUp.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\sliding_exits\slideOutDown.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\sliding_exits\slideOutLeft.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\sliding_exits\slideOutRight.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\sliding_exits\slideOutUp.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\specials\hinge.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\specials\rollIn.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\specials\rollOut.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\zooming_entrances\zoomIn.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\zooming_entrances\zoomInDown.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\zooming_entrances\zoomInLeft.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\zooming_entrances\zoomInRight.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\zooming_entrances\zoomInUp.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\zooming_exits\zoomOut.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\zooming_exits\zoomOutDown.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\zooming_exits\zoomOutLeft.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\zooming_exits\zoomOutRight.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\animate-css\source\zooming_exits\zoomOutUp.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\back-to-top.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\bootstrap\.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\bootstrap\.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\bootstrap\.hound.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\bootstrap\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\bootstrap\css\bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\bootstrap\css\bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\bootstrap\css\bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\bootstrap\css\bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\bootstrap\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\bootstrap\css\bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\bootstrap\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\bootstrap\css\bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\bootstrap\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\bootstrap\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\bootstrap\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\bootstrap\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\bootstrap\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\bootstrap\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\bootstrap\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\bootstrap\js\npm.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\custom-icons\Read Me.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\custom-icons\demo-files\demo.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\custom-icons\demo-files\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\custom-icons\demo.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\custom-icons\fonts\icomoon.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\custom-icons\fonts\icomoon.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\custom-icons\fonts\icomoon.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\custom-icons\fonts\icomoon.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\custom-icons\pixellove-extended-license.pdf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\custom-icons\selection.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\custom-icons\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\HELP-US-OUT.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\css\font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\css\font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\fonts\FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\fonts\fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\fonts\fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\fonts\fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\fonts\fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\fonts\fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\less\animated.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\less\bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\less\core.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\less\fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\less\font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\less\icons.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\less\larger.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\less\list.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\less\mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\less\path.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\less\rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\less\screen-reader.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\less\stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\less\variables.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\scss\_animated.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\scss\_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\scss\_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\scss\_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\scss\_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\scss\_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\scss\_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\scss\_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\scss\_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\scss\_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\scss\_screen-reader.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\scss\_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\scss\_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\font-awesome\scss\font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\isMobile\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\isMobile\CONTRIBUTORS.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\isMobile\Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\isMobile\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\isMobile\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\isMobile\isMobile.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\isMobile\isMobile.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\isMobile\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\isMobile\tests\spec\AndroidSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\isMobile\tests\spec\AppleSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\isMobile\tests\spec\DesktopSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\isMobile\tests\spec\OtherSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\isMobile\tests\spec\SevenInchSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\isMobile\tests\spec\WindowsSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-1.12.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-inview\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-inview\README.textile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-inview\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-inview\example\advanced.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-inview\example\live_event.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-inview\example\simple_example.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-inview\jquery.inview.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-inview\jquery.inview.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-inview\test\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-inview\test\test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-match-height\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-match-height\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-match-height\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-match-height\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-match-height\jquery.matchHeight-min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-match-height\jquery.matchHeight.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-match-height\matchHeight.jquery.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-match-height\test.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-match-height\test.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-match-height\test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\.jscsrc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\CHANGELOG" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\demo\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\demo\css\style.old.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\demo\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\demo\index.old.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\jquery.scrollTo.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\jquery.scrollTo.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\tests\ElemMaxY-compat.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\tests\ElemMaxY-quirks.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\tests\WinMaxY-compat.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\tests\WinMaxY-quirks.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\tests\WinMaxY-to-iframe-compat.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\tests\WinMaxY-to-iframe-quirks.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\tests\WinMaxY-with-iframe-compat.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\tests\WinMaxY-with-iframe-quirks.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\tests\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery-scrollTo\tests\test.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\jquery.validate.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\owl-carousel\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\owl-carousel\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\owl-carousel\assets\ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\owl-carousel\assets\owl.carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\owl-carousel\assets\owl.carousel.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\owl-carousel\assets\owl.theme.default.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\owl-carousel\assets\owl.theme.default.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\owl-carousel\assets\owl.theme.green.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\owl-carousel\assets\owl.theme.green.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\owl-carousel\assets\owl.video.play.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\owl-carousel\owl.carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\assets\plugins\owl-carousel\owl.carousel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\public\index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_scripts.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/_scripts.html.erb" />
+      <change type="MOVED" beforePath="C:\Sites\handymen\app\assets\stylesheets\font-awesome.css" afterPath="$PROJECT_DIR$/app/assets/plugins/font-awesome/css/font-awesome.css" />
+      <change type="MOVED" beforePath="C:\Sites\handymen\app\assets\stylesheets\font-awesome.min.css" afterPath="$PROJECT_DIR$/app/assets/plugins/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pages/index.html.erb" afterPath="$PROJECT_DIR$/app/views/pages/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="handymen.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -388,38 +34,28 @@
       <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/pages/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-44.81818" vertical-offset="0" max-vertical-offset="16541">
-              <caret line="145" column="43" selection-start-line="145" selection-start-column="37" selection-end-line="145" selection-end-column="43" />
+            <state vertical-scroll-proportion="-3.418182" vertical-offset="1750" max-vertical-offset="16541">
+              <caret line="114" column="108" selection-start-line="114" selection-start-column="107" selection-end-line="114" selection-end-column="108" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/plugins/custom-icons/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.3448277" vertical-offset="0" max-vertical-offset="3468">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.9310346" vertical-offset="13807" max-vertical-offset="22814">
-              <caret line="824" column="17" selection-start-line="824" selection-start-column="14" selection-end-line="824" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.69503546" vertical-offset="33" max-vertical-offset="918">
-              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+            <state vertical-scroll-proportion="-3.418182" vertical-offset="152" max-vertical-offset="918">
+              <caret line="20" column="77" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.css.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.08415841" vertical-offset="0" max-vertical-offset="606">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -438,6 +74,7 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/app/assets/plugins/custom-icons/fonts/style.css" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css.scss" />
       </list>
     </option>
   </component>
@@ -489,6 +126,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="handymen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="handymen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="handymen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -572,7 +223,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="custom-icons" />
+              <option name="myItemId" value="font-awesome" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -598,11 +249,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="custom-icons" />
+              <option name="myItemId" value="font-awesome" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fonts" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -636,11 +287,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Sites\handymen\app\assets\plugins\font-awesome\css" />
       <recent name="C:\Sites\handymen\app\assets\plugins\custom-icons" />
       <recent name="C:\Sites\handymen\app\assets\plugins\custom-icons\fonts" />
       <recent name="C:\Sites\handymen\app\assets\stylesheets" />
       <recent name="C:\Sites\handymen\app\assets\javascripts" />
-      <recent name="C:\Sites\handymen\app\assets\images" />
     </key>
   </component>
   <component name="RunManager" selected="Rails.Development: handymen">
@@ -930,32 +581,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.9310346" vertical-offset="13807" max-vertical-offset="22814">
-          <caret line="824" column="17" selection-start-line="824" selection-start-column="14" selection-end-line="824" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/plugins/custom-icons/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.3448277" vertical-offset="0" max-vertical-offset="3468">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="5018" max-vertical-offset="22814">
+          <caret line="307" column="18" selection-start-line="307" selection-start-column="9" selection-end-line="307" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/pages/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-44.81818" vertical-offset="0" max-vertical-offset="16541">
-          <caret line="145" column="43" selection-start-line="145" selection-start-column="37" selection-end-line="145" selection-end-column="43" />
+        <state vertical-scroll-proportion="-3.418182" vertical-offset="1750" max-vertical-offset="16541">
+          <caret line="114" column="108" selection-start-line="114" selection-start-column="107" selection-end-line="114" selection-end-column="108" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/plugins/custom-icons/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.056384742" vertical-offset="0" max-vertical-offset="3468">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.69503546" vertical-offset="33" max-vertical-offset="918">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        <state vertical-scroll-proportion="-3.418182" vertical-offset="152" max-vertical-offset="918">
+          <caret line="20" column="77" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08415841" vertical-offset="0" max-vertical-offset="606">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
