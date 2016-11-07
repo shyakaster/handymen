@@ -669,6 +669,9 @@ h1.logo img {
   background: #1c59a2;
   color: #fff;
 }
+.reviews-section p{
+    text-align: center;
+}
 .reviews-section .rating {
   margin-bottom: 15px;
 }
