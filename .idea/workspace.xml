@@ -2,56 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a7479ab-f82a-48a4-a336-3b41ddd9e45c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Development__handymen.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Production__handymen.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/spec__handymen.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/test__handymen.xml" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\HELP-US-OUT.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\css\font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\fonts\FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\fonts\fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\fonts\fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\fonts\fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\fonts\fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\fonts\fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\less\animated.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\less\bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\less\core.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\less\fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\less\font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\less\icons.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\less\larger.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\less\list.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\less\mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\less\path.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\less\rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\less\screen-reader.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\less\stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\less\variables.less" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\scss\_animated.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\scss\_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\scss\_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\scss\_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\scss\_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\scss\_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\scss\_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\scss\_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\scss\_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\scss\_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\scss\_screen-reader.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\scss\_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\scss\_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\scss\font-awesome.scss" afterPath="" />
-      <change type="MOVED" beforePath="C:\Sites\handymen\app\assets\plugins\custom-icons\fonts\icomoon.eot" afterPath="$PROJECT_DIR$/app/assets/stylesheets/icomoon.eot" />
-      <change type="MOVED" beforePath="C:\Sites\handymen\app\assets\plugins\custom-icons\fonts\icomoon.svg" afterPath="$PROJECT_DIR$/app/assets/stylesheets/icomoon.svg" />
-      <change type="MOVED" beforePath="C:\Sites\handymen\app\assets\plugins\custom-icons\fonts\icomoon.ttf" afterPath="$PROJECT_DIR$/app/assets/stylesheets/icomoon.ttf" />
-      <change type="MOVED" beforePath="C:\Sites\handymen\app\assets\plugins\custom-icons\fonts\icomoon.woff" afterPath="$PROJECT_DIR$/app/assets/stylesheets/icomoon.woff" />
-      <change type="MOVED" beforePath="C:\Sites\handymen\app\assets\plugins\custom-icons\style.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/style.css" />
-      <change type="MOVED" beforePath="C:\Sites\handymen\app\assets\plugins\font-awesome\css\font-awesome.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/plugins/custom-icons/demo.html" afterPath="$PROJECT_DIR$/app/assets/plugins/custom-icons/demo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pages/index.html.erb" afterPath="$PROJECT_DIR$/app/views/pages/index.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="handymen.iws" />

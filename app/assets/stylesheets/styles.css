@@ -550,7 +550,7 @@ h1.logo img {
   padding-top: 90px;
 }
 .hero-carousel .carousel-inner .item-1 {
-  background-image: url('/assets/hero-1.jpg');
+  background-image: url('/assets/hero-image1.jpg');
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
