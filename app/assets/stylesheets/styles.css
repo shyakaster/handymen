@@ -676,6 +676,10 @@ h1.logo img {
     padding-top: 0;
     color: #B00100;
 }
+/*======= error styling*/
+.alert{
+    padding-top: 40px;
+}
 /* ======= Reviews Section ======= */
 .reviews-section {
   background: #1c59a2;

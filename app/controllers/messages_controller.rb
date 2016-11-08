@@ -10,7 +10,7 @@ class MessagesController < ApplicationController
       MessageMailer.new_message(@message).deliver_now
       redirect_to root_path, notice: "Thank you for your message."
     else
-       flash[:notice] = "An error occurred while delivering this message."
+       flash.now[:notice] = "An error occurred while delivering this message."
        render :new
     end
   end
