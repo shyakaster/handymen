@@ -1,38 +1,48 @@
- <form id="contact-form" class="contact-form form" method="post" action="mailer.php">
-                <div id="form-messages" class="text-center"></div> 
-                <div class="row text-left">
-                    <div class="name-group col-sm-6 col-xs-12 form-group">
-                        <div class="form-group-inner">
-                            <label for="cname">Name</label>
-                            <input type="text" class="form-control" id="cname" name="name" placeholder="Your name" minlength="2"  aria-required="true" required>
-                        </div>
-                    </div><!--//name-group-->
-                    <div class="email-group col-sm-6 col-xs-12 form-group">
-                        <div class="form-group-inner">
-                            <label for="cemail">Email</label>
-                            <input type="email" class="form-control" id="cemail" name="email" placeholder="Your email address" aria-required="true" required>
-                        </div>
-                    </div><!--//email-group-->
-                    <div class="phone-group col-sm-6 col-xs-12 form-group">
-                        <div class="form-group-inner">
-                            <label for="cphone">Phone</label>
-                            <input type="tel" class="form-control" id="cphone" name="phone" placeholder="Your phone number" aria-required="true" required>
-                        </div>
-                    </div><!--//phone-group-->
-                    <div class="zipcode-group col-sm-6 col-xs-12 form-group">
-                        <div class="form-group-inner">
-                            <label for="czipcode">Zip Code</label>
-                            <input type="text" class="form-control" id="czipcode" name="zipcode" placeholder="eg.94101" aria-required="true" required>
-                        </div>
-                    </div><!--//zipcode-group-->
-                    <div class="message-group col-xs-12 form-group">
-                        <div class="form-group-inner">
-                            <label for="cmessage">Your project &amp; additional info</label>
-                            <textarea class="form-control" id="cmessage" name="message" rows="6" placeholder="Enter your project info here..."  required></textarea>
-                        </div>
-                    </div><!--//message-group-->
-                    <div class="col-xs-12 form-group">
-                        <button type="submit" class="btn btn-block btn-warning btn-cta">Submit</button>
-                    </div> 
-                </div><!--//row-->
-            </form><!--//contact-form-->
+ <form id="contact-form", class="contact-form form">
+   <%= form_for(@contact, url: url_for(controller:'pages', action:'create'))  do |f|%>
+       <div id="form-messages" class="text-center"></div>
+       <div class="row text-left">
+         <div class="name-group col-sm-6 col-xs-12 form-group">
+           <div class="form-group-inner">
+             <%= f.label :name, for:'cname'%>
+             <%= f.text_field :name, id:'cname', class:'form-control',name:'name', placeholder:'Your name',minlength:'2',required:'true'%>
+             <!--<input type="text" class="form-control" id="cname" name="name" placeholder="Your name" minlength="2"  aria-required="true" required>-->
+           </div>
+         </div><!--//name-group-->
+         <div class="email-group col-sm-6 col-xs-12 form-group">
+           <div class="form-group-inner">
+             <%= f.label :email, for:'cemail'%>
+             <!--<label for="cemail">Email</label>-->
+             <%= f.text_field :email, class:'form-control',name:'email',placeholder:'Youe email address', required:'true'%>
+             <!--<input type="email" class="form-control" id="cemail" name="email" placeholder="Your email address" aria-required="true" required>-->
+           </div>
+         </div><!--//email-group-->
+         <div class="phone-group col-sm-6 col-xs-12 form-group">
+           <div class="form-group-inner">
+             <%= f.label :phone, for:'cphone'%>
+             <!--<label for="cphone">Phone</label>-->
+             <%= f.text_field :phone, class:'form-control', id:'cphone', placeholder:'Your phone number', required:'true'%>
+             <!--<input type="tel" class="form-control" id="cphone" name="phone" placeholder="Your phone number" aria-required="true" required>-->
+           </div>
+         </div><!--//phone-group-->
+         <!--<div class="zipcode-group col-sm-6 col-xs-12 form-group">-->
+         <!--<div class="form-group-inner">-->
+         <!--<label for="czipcode">Zip Code</label>-->
+         <!--<input type="text" class="form-control" id="czipcode" name="zipcode" placeholder="eg.94101" aria-required="true" required>-->
+         <!--</div>-->
+         <!--</div>&lt;!&ndash;//zipcode-group&ndash;&gt;-->
+         <div class="message-group col-xs-12 form-group">
+           <div class="form-group-inner">
+             <%= f.label :message, for:'cmessage', text:'Your project and additional info'%>
+             <!--<label for="cmessage">Your project &amp; additional info</label>-->
+             <%= f.text_area :message, for:'cmessage', class:'form-control', name:'message', rows:'6', placeholder:'Enter your project info here.', required:'true'%>
+             <!--<textarea class="form-control" id="cmessage" name="message" rows="6" placeholder="Enter your project info here..."  required></textarea>-->
+           </div>
+         </div><!--//message-group-->
+         <div class="col-xs-12 form-group">
+           <%= f.submit "Submit", class:'btn btn-block btn-warning btn-cta'%>
+           <!--<button type="submit" class="btn btn-block btn-warning btn-cta">Submit</button>-->
+         </div>
+       </div><!--//row-->
+       <%end%><!--//contact-form-->
+ </form>
