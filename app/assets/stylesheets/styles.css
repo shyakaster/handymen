@@ -528,6 +528,7 @@ h1.logo img {
 }
 .footer-menu li {
   margin-bottom: 5px;
+
 }
 .footer-menu li:last-child {
   margin-bottom: 0;
@@ -663,6 +664,17 @@ h1.logo img {
 .badges-list img {
   max-height: 90px;
   vertical-align: middle;
+}
+/*======= message styling*/
+.message-form{
+    padding: 20px 0;
+}
+.actions{
+    padding-bottom: 20px;
+}
+.message-paragraph{
+    padding-top: 0;
+    color: #B00100;
 }
 /* ======= Reviews Section ======= */
 .reviews-section {

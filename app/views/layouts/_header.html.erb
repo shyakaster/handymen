@@ -1,4 +1,5 @@
- <!-- ******HEADER****** --> 
+
+<!-- ******HEADER****** -->
     <header id="header" class="header">  
         <div id="topbar" class="topbar">
             <div class="container-fluid">
@@ -22,7 +23,8 @@
                             <li class="nav-item"><a class="scrollto" href="#projects">Projects</a></li>                                     
                             <li class="nav-item"><a class="scrollto" href="#shop">Shop</a></li>
                             <li class="nav-item"><a class="scrollto" href="#faqs">FAQs</a></li>
-                            <li class="nav-item"><a class="scrollto" href="#contact">Contact</a></li>
+                          <li><%= link_to "Contact Us", new_message_path, class:'scrollto'%></li>
+                            <!--<li class="nav-item"><a class="scrollto" href="#contact">Contact</a></li>-->
                         </ul><!--//nav-->
                     </div><!--//navabr-collapse-->
                 </nav><!--//main-nav-->
