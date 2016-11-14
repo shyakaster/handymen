@@ -1,5 +1,5 @@
 class MessageMailer < ApplicationMailer
-    default to:   "alexshyaka@therailsshop.club"
+    default to:   "allan@brandfield.tech"
 
     def new_message(message)
       @message = message
