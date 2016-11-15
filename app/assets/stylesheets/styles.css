@@ -293,7 +293,7 @@ textarea {
 }
 /* ====== Header ======= */
 .topbar {
-  background: #2064b7;
+  background: #b2282F;
   color: #fff;
   position: fixed;
   top: 0;
@@ -438,7 +438,7 @@ h1.logo img {
 }
 /* ======= Footer ======= */
 .footer {
-  background: #113560;
+  background: #F5B435;
   color: rgba(255, 255, 255, 0.7);
   font-size: 14px;
 }
@@ -508,7 +508,7 @@ h1.logo img {
   padding-top: 60px;
 }
 .bottombar {
-  background: #0d294b;
+  background: #b2282F;
   padding-top: 15px;
   padding-bottom: 15px;
   color: rgba(255, 255, 255, 0.4);
@@ -629,7 +629,7 @@ h1.logo img {
 }
 /* ======= Why Section ======= */
 .why-section {
-  background: #2f7ddb;
+  background: #b2282F;
   color: #fff;
 }
 .why-section .section-title {
@@ -682,7 +682,7 @@ h1.logo img {
 }
 /* ======= Reviews Section ======= */
 .reviews-section {
-  background: #1c59a2;
+  background: #F5B435;
   color: #fff;
 }
 .reviews-section p{
@@ -752,7 +752,7 @@ h1.logo img {
 }
 /* ======= Callout Section ======= */
 .callout-section {
-  background: #2f7ddb;
+  background: #b2282F;
   color: #fff;
   padding-top: 45px;
   padding-bottom: 45px;
@@ -966,7 +966,7 @@ h1.logo img {
 }
 /* ======= Contact Section ======= */
 .contact-section {
-  background: #2f7ddb;
+  background: #b2282F;
   color: #fff;
   padding-top: 90px;
   padding-bottom: 90px;
